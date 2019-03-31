@@ -1,0 +1,1 @@
+import mnist_inference
